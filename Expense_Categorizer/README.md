@@ -118,9 +118,8 @@ java -cp out com.expensecategorizer.ExpenseCategorizerApp bank_statement.csv
 
 ## 👨‍💻 Author
 
-**Vamsikishore Reddy**
-🎓 Final Year | B.Tech – Data Science
-💼 Aspiring Java Developer | Data Analyst
+**Vamsikishore Reddy Kanchimireddy**
+💼 Aspiring Java Developer 
 📧 [vamsireddy1180@gmail.com](mailto:vamsireddy1180@gmail.com)
 
 ---
